@@ -1,11 +1,15 @@
-<div align="left">
-
-<!-- රතු, රෝස, දම් පාට Banner එක සහ වචන ටික -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FF69B4,100:8A2BE2&height=180&section=header&text=Sachini%20Dulanjali&desc=IT%20Undergraduate%20%7C%20Passionate%20about%20Web%20Development%20%26%20Databases&descSize=15&descAlignY=65&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30" width="100%" />
-
-<!-- මැදට තියෙන Hello World කොටස -->
 <div align="center">
 
+<!-- ඔයාගේ Profile Photo එක -->
+<img src="https://github.com/Dulanjimunasingha.png" width="150" style="border-radius: 50%;" alt="Sachini Dulanjali" />
+
+<!-- රතු, රෝස, දම් පාට Banner එක (වෙනත් ක්‍රමයක්) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Sachini+Dulanjali;IT+Undergraduate" alt="Typing SVG" />
+
+<!-- නමට යටින් තියෙන වචන ටික -->
+### IT Undergraduate | Passionate about Web Development & Databases
+
+<!-- මැදට තියෙන Hello World කොටස -->
 ### 👋 Hello World! I'm Sachini
 
 </div>
@@ -37,5 +41,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-</div>
