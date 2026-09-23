@@ -16,11 +16,10 @@
 <h3>💜 About Me</h3>
 
 <p>
-  🎓 I’m an IT Undergraduate at <b>Advanced Technology Institute - Tangalle</b><br>
+  🎓 I’m an Undergraduate at SLIATE</b><br>
   💻 I’m currently learning <b>Web Development and Software Engineering</b><br>
   🗄️ Passionate about <b>Databases and MySQL</b><br>
   🚀 I love building practical projects and exploring new tech!<br>
-  🌱 I’m looking to collaborate on <b>open-source projects</b><br>
   📫 How to reach me: <b>sachinimunasingha23@gmail.com</b>
 </p>
 
