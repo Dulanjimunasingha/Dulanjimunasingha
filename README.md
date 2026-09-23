@@ -1,13 +1,12 @@
 <div align="center">
-  <!-- බැනර් එක (නම සහ ඊට හරියටම යටින් වචන ටික) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=200&section=header&text=SACHINI%20DULANJALI&desc=IT%20Undergraduate%20%7C%20Passionate%20about%20Web%20Development%20%26%20Databases&fontSize=35&descFontSize=18&fontColor=ffffff&descColor=ffffff&animation=fadeIn&fontAlignY=35&descAlignY=60" width="100%" />
-  
-  <h2>Hello World! 👋 I'm Sachini</h2>
+  <!-- සරල, ලස්සන හෙඩින් එකක් (කවදාවත් නැති වෙන්නේ නැහැ) -->
+  <h1> SACHINI DULANJALI </h1>
+  <h3>IT Undergraduate | Passionate about Web Development & Databases</h3>
   
   <img src="https://komarev.com/ghpvc/?username=Dulanjimunasingha&label=Profile%20views&color=ff69b4&style=flat" alt="Dulanjimunasingha" />
 </div>
 
-<br>
+<hr>
 
 <!-- About Me කොටස -->
 <h3>💜 About Me</h3>
