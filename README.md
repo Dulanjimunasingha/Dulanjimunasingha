@@ -1,10 +1,10 @@
 <div align="left">
 
-<!-- උඩම තියෙන Colour Banner එක (Deep Blue & Cyan) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=header&text=Sachini%20Dulanjali&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<!-- රතු, රෝස, දම් පාට Banner එක -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FF69B4,100:8A2BE2&height=180&section=header&text=Sachini%20Dulanjali&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<!-- නමට යටින් තියෙන වැකිය -->
-### 💻 IT Undergraduate | Aspiring Web Developer & Database Enthusiast
+<!-- යටින් තියෙන වැකිය -->
+### IT Undergraduate | Aspiring Web Developer and Database Enthusiast
 
 <br>
 
@@ -15,8 +15,8 @@
 ## 💙 About Me
 
 * 🎓 I'm an Undergraduate at **SLIATE**
-* 📚 I'm currently learning **Python** and **Full-Stack Web Development**
-* 🗄️ Passionate about **Databases** and **MySQL**
+* 📚 I'm currently learning **Python and Full-Stack Web Development**
+* 🗄️ Passionate about **Databases and MySQL**
 * 🚀 I love building practical projects and exploring new tech!
 * 📧 How to reach me: **sachimunasingha23@gmail.com**
 
