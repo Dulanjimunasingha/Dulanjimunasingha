@@ -1,12 +1,11 @@
-<div align="center">
+<div align="left">
 
-<!-- ලස්සන රතු, රෝස, දම් පාට Banner එක (CSS Gradient) -->
-<h1 style="background: linear-gradient(to right, #FF0000, #FF69B4, #8A2BE2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 45px; font-weight: bold; margin-bottom: 0;">Sachini Dulanjali</h1>
-
-<!-- නමට යටින් තියෙන වචන ටික -->
-<h3 style="color: #FF69B4; margin-top: 5px;">IT Undergraduate | Passionate about Web Development & Databases</h3>
+<!-- රතු, රෝස, දම් පාට Banner එක -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FF69B4,100:8A2BE2&height=180&section=header&text=Sachini%20Dulanjali&desc=IT%20Undergraduate%20%7C%20Aspiring%20Web%20Developer%20and%20Database%20Enthusiast&descSize=15&descAlignY=75&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <!-- මැදට තියෙන Hello World කොටස -->
+<div align="center">
+
 ### 👋 Hello World! I'm Sachini
 
 </div>
@@ -38,3 +37,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+</div>
