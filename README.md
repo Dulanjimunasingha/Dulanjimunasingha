@@ -3,7 +3,7 @@
 <!-- රතු, රෝස, දම් පාට Banner එක (Design එක විතරයි) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FF69B4,100:8A2BE2&height=180&section=header&text=Sachini%20Dulanjali&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<!-- නමට යටින් තියෙන වචන ටික (Design එකට යටින් නෙවෙයි) -->
+<!-- නමට ටිකක් උඩින් තියෙන වචන ටික -->
 **IT Undergraduate | Passionate about Web Development & Databases**
 
 <!-- මැදට තියෙන Hello World කොටස -->
@@ -38,3 +38,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+</div>
