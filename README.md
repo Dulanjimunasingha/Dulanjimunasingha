@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- රතු, රෝස, දම් පාට Banner එක (නම සහ වචන ටික ඇතුලේ) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FF69B4,100:8A2BE2&height=200&section=header&text=Sachini%20Dulanjali&desc=IT%20Undergraduate%20%7C%20Passionate%20about%20Web%20Development%20%26%20Databases&descSize=16&descAlignY=65&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<!-- රතු, රෝස, දම් පාට Banner එක (Design එක විතරයි) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FF69B4,100:8A2BE2&height=180&section=header&text=Sachini%20Dulanjali&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+
+<!-- නමට යටින් තියෙන වචන ටික (Design එකට යටින් නෙවෙයි) -->
+**IT Undergraduate | Passionate about Web Development & Databases**
 
 <!-- මැදට තියෙන Hello World කොටස -->
 ### 👋 Hello World! I'm Sachini
